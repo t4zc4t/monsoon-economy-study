@@ -1,0 +1,130 @@
+base_year,series,year,indicator,frequency,revision,industry,subindustry,institutional_sector,quarter,current_price,constant_price,unit
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,"Agriculture, Livestock, Forestry and Fishing",,,,5713629,5240222,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,Mining and Quarrying,,,,594023,620560,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,Manufacturing,,,,4670561,4612111,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,"Electricity, Gas, Water Supply & Other Utility Services",,,,819870,693068,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,Construction,,,,2632585,2648587,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,"Trade, Hotels, Transport, Communication & Services Related to Broadcasting",,,,4491053,4335333,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,"Financial, Real Estate & Professional Services",,,,8336609,7765987,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,"Public Administration, Defence & Other Services",,,,4136361,3674461,₹ Crore
+2022-23,Current,2025-26,Gross Value Added,Annual,Provisional Estimates,Total Gross Value Added,,,,31394691,29590329,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,Public Non-Financial Corporations,,1546726,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,Private Non-Financial Corporations,,9550828,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,Public Financial Corporations,,780342,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,Private Financial Corporations,,1059339,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,General Government,,2706803,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,Households Including NPISH,,13201645,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,,,Total Gross Value Added,,28845683,,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Agriculture, Livestock, Forestry and Fishing",Crops,,,3475967,3100056,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Agriculture, Livestock, Forestry and Fishing",Livestock,,,1385304,1279183,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Agriculture, Livestock, Forestry and Fishing",Forestry and Logging,,,408837,415799,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Agriculture, Livestock, Forestry and Fishing",Fishing and Aquaculture,,,306602,279155,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Agriculture, Livestock, Forestry and Fishing",,,,5576710,5074193,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Mining and Quarrying,,,,572560,579349,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Manufacturing,"Food Products, Beverages and Tobacco",,,503316,506203,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Manufacturing,"Textiles, Apparel and Leather Products",,,442396,421294,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Manufacturing,Metal Products,,,584804,688577,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Manufacturing,Machinery and Equipment,,,1077946,913399,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Manufacturing,Other Manufactured Goods,,,1576241,1710135,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Manufacturing,,,,4184702,4239607,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Electricity, Gas, Water Supply & Other Utility Services",,,,804842,678703,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Construction,,,,2452444,2470650,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Trade, Hotels, Transport, Communication & Services Related to Broadcasting",,,,3996393,3895688,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Trade, Repair, Hotels and Restaurants",Trade & Repair Services,,,2075946,2047750,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Trade, Repair, Hotels and Restaurants",Hotels & Restaurants,,,375488,333650,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Trade, Repair, Hotels and Restaurants",,,,2451434,2381400,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Railways,,,165316,156355,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Road Transport,,,675415,659557,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Water Transport,,,24047,21284,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Air Transport,,,42219,27551,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Services Incidental to Transport,,,165551,148837,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Storage,,,43732,33192,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Communication & Services Related to Broadcasting,,,428678,467512,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",,,,1544959,1514288,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Financial, Real Estate & Professional Services",,,,7498888,7025521,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Financial Services,,,,1839682,1731762,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Real Estate, Ownership of Dwelling & Professional Services",,,,5659206,5293759,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,"Public Administration, Defence & Other Services",,,,3759144,3458058,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Public Administration and Defence,,,,1671523,1559043,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Other Services,,,,2087621,1899016,₹ Crore
+2022-23,Current,2024-25,Gross Value Added,Annual,First Revised Estimates,Total Gross Value Added,,,,28845683,27421770,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,Public Non-Financial Corporations,,1519220,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,Private Non-Financial Corporations,,8582259,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,Public Financial Corporations,,714052,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,Private Financial Corporations,,944003,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,General Government,,2502921,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,Households Including NPISH,,12143026,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,,,Total Gross Value Added,,26405480,,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Crops,,,3188250,3003787,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Livestock,,,1267518,1216784,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Forestry and Logging,,,380575,394560,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Fishing and Aquaculture,,,269210,257108,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",,,,5105553,4872239,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Mining and Quarrying,,,,538030,510661,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Manufacturing,"Food Products, Beverages and Tobacco",,,448325,450120,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Manufacturing,"Textiles, Apparel and Leather Products",,,393010,391791,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Manufacturing,Metal Products,,,520023,580029,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Manufacturing,Machinery and Equipment,,,949527,821786,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Manufacturing,Other Manufactured Goods,,,1548247,1610753,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Manufacturing,,,,3859133,3854479,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Electricity, Gas, Water Supply & Other Utility Services",,,,732148,660193,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Construction,,,,2277370,2318022,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Trade, Hotels, Transport, Communication & Services Related to Broadcasting",,,,3714601,3640930,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Trade, Repair, Hotels and Restaurants",Trade & Repair Services,,,1915461,1900656,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Trade, Repair, Hotels and Restaurants",Hotels & Restaurants,,,339577,321209,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Trade, Repair, Hotels and Restaurants",,,,2255038,2221865,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Railways,,,155009,152525,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Road Transport,,,678083,635287,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Water Transport,,,20677,20490,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Air Transport,,,36774,24617,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Services Incidental to Transport,,,148270,140063,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Storage,,,30799,25873,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Communication & Services Related to Broadcasting,,,389952,420209,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",,,,1459563,1419065,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Financial, Real Estate & Professional Services",,,,6729875,6446738,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Financial Services,,,,1658055,1580511,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Real Estate, Ownership of Dwelling & Professional Services",,,,5071820,4866227,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,"Public Administration, Defence & Other Services",,,,3448771,3289390,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Public Administration and Defence,,,,1536920,1474951,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Other Services,,,,1911851,1814439,₹ Crore
+2022-23,Current,2023-24,Gross Value Added,Annual,Final Estimates,Total Gross Value Added,,,,26405480,25592651,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,Public Non-Financial Corporations,,1258014,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,Private Non-Financial Corporations,,8137375,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,Public Financial Corporations,,645812,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,Private Financial Corporations,,831882,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,General Government,,2328798,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,Households Including NPISH,,10621255,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,,,Total Gross Value Added,,23823136,,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Crops,,,2929125,2929125,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Livestock,,,1181992,1181992,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Forestry and Logging,,,389062,389062,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",Fishing and Aquaculture,,,244375,244375,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Agriculture, Livestock, Forestry and Fishing",,,,4744554,4744554,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Mining and Quarrying,,,,506017,506017,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Manufacturing,"Food Products, Beverages and Tobacco",,,381938,381938,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Manufacturing,"Textiles, Apparel and Leather Products",,,396975,396975,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Manufacturing,Metal Products,,,493186,493186,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Manufacturing,Machinery and Equipment,,,781054,781054,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Manufacturing,Other Manufactured Goods,,,1429695,1429695,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Manufacturing,,,,3482848,3482848,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Electricity, Gas, Water Supply & Other Utility Services",,,,590956,590956,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Construction,,,,2112811,2112811,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Trade, Hotels, Transport, Communication & Services Related to Broadcasting",,,,3264481,3264481,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Trade, Repair, Hotels and Restaurants",Trade & Repair Services,,,1667100,1667100,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Trade, Repair, Hotels and Restaurants",Hotels & Restaurants,,,279599,279599,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Trade, Repair, Hotels and Restaurants",,,,1946700,1946700,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Railways,,,144350,144350,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Road Transport,,,604854,604854,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Water Transport,,,19086,19086,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Air Transport,,,20686,20686,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Services Incidental to Transport,,,128315,128315,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Storage,,,28144,28144,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",Communication & Services Related to Broadcasting,,,372347,372347,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Transport, Storage, Communication & Services Related to Broadcasting",,,,1317781,1317781,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Financial, Real Estate & Professional Services",,,,6045177,6045177,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Financial Services,,,,1477694,1477694,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Real Estate, Ownership of Dwelling & Professional Services",,,,4567483,4567483,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,"Public Administration, Defence & Other Services",,,,3076292,3076292,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Public Administration and Defence,,,,1430119,1430119,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Other Services,,,,1646173,1646173,₹ Crore
+2022-23,Current,2022-23,Gross Value Added,Annual,Final Estimates,Total Gross Value Added,,,,23823136,23823136,₹ Crore
